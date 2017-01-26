@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-salary = 175000 # Initial salary
+salary = 75000 # Initial salary
 p = 100000# Principal
 i = .05 # Interest Rate
 y = 25 # Number of years
